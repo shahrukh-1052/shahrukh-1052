@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahrukh-1052" alt="shahrukh-1052" /></a> </p>
 
-<p align="left"> <a href="https://x.com/shahrukh_66" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/shahrukh_66?logo=twitter&style=for-the-badge" alt="https://twitter.com/shahrukh_66" /></a> </p>
+<p align="left"> <a href="https://x.com/shahrukh_66" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/shahrukh_66?logo=twitter&style=for-the-badge" alt="https://x.com/shahrukh_66" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
