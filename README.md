@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm I'm, HABEEBUDDIN</h1>
+<h1 align="center">Hi there 👋, I'm, HABEEBUDDIN</h1>
 <h3 align="center">Passionate about a Cybersecurity career & eager to deepen my knowledge in safeguarding digital assets.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahrukh-1052&label=Profile%20views&color=0e75b6&style=flat" alt="shahrukh-1052" /> </p>
