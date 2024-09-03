@@ -11,20 +11,29 @@
   </a>
 </p>
 
-<p align="left"> 
-  <a href="https://twitter.com/https://twitter.com/shahrukh_66" target="blank">
-    <img src="https://img.shields.io/twitter/follow/https://twitter.com/shahrukh_66?logo=twitter&style=for-the-badge" alt="https://twitter.com/shahrukh_66" />
+- 👨‍💻 All of my projects are available at [My Portfolio](https://mhportfolio-emiuhbm.gamma.site/)
+
+- 📝 I write articles on Hacking & Tech Alerts at [Instagram](https://www.instagram.com/mr_pagall__1052/)
+
+- 📫 How to reach me **mohammedhabeebuddin79@gmail.com**
+
+- 📄 Know about my experiences through my [Resume](https://drive.google.com/file/d/1yN_h0s5knzDzOKrwUuUvVB-U2eJnN1eP/view?usp=sharing)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://twitter.com/shahrukh_66" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohammed-habeebuddin-a108ab288/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/shahrukh-56/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/tufgamerz56" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerRank" height="30" width="40" />
   </a>
 </p>
-
-- 👨‍💻 All of my projects are available at [https://mhportfolio-emiuhbm.gamma.site/](https://mhportfolio-emiuhbm.gamma.site/)
-
-- 📝 I write articles on Hacking & Tech Alerts: [https://www.instagram.com/mr_pagall__1052/](https://www.instagram.com/mr_pagall__1052/)
-
-- 📫 How to reach me: **mohammedhabeebuddin79@gmail.com**
-
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1yN_h0s5knzDzOKrwUuUvVB-U2eJnN1eP/view?usp=sharing)
-
 ---
 
 <h3 align="left">Languages and Tools:</h3>
