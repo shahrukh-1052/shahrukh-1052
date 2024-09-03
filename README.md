@@ -1,47 +1,32 @@
 <h1 align="center">Hi there 👋, I'm HABEEBUDDIN</h1>
 <h3 align="center">Passionate about a Cybersecurity career & eager to deepen my knowledge in safeguarding digital assets.</h3>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=shahrukh-1052&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=shahrukh-1052&label=Profile%20views&color=0e75b6&style=flat" alt="shahrukh-1052" />
 </p>
 
-<p align="center">
+<p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shahrukh-1052" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=shahrukh-1052" alt="shahrukh-1052" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/shahrukh_66" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/shahrukh_66?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+<p align="left"> 
+  <a href="https://twitter.com/https://twitter.com/shahrukh_66" target="blank">
+    <img src="https://img.shields.io/twitter/follow/https://twitter.com/shahrukh_66?logo=twitter&style=for-the-badge" alt="https://twitter.com/shahrukh_66" />
   </a>
 </p>
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://mhportfolio-emiuhbm.gamma.site/)
+- 👨‍💻 All of my projects are available at [https://mhportfolio-emiuhbm.gamma.site/](https://mhportfolio-emiuhbm.gamma.site/)
 
-- 📝 I write articles on Hacking & Tech Alerts at [Instagram](https://www.instagram.com/mr_pagall__1052/)
+- 📝 I write articles on Hacking & Tech Alerts: [https://www.instagram.com/mr_pagall__1052/](https://www.instagram.com/mr_pagall__1052/)
 
-- 📫 How to reach me **mohammedhabeebuddin79@gmail.com**
+- 📫 How to reach me: **mohammedhabeebuddin79@gmail.com**
 
-- 📄 Know about my experiences through my [Resume](https://drive.google.com/file/d/1yN_h0s5knzDzOKrwUuUvVB-U2eJnN1eP/view?usp=sharing)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1yN_h0s5knzDzOKrwUuUvVB-U2eJnN1eP/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/shahrukh_66" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohammed-habeebuddin-a108ab288/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/shahrukh-56/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/tufgamerz56" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-</p>
+---
 
--------
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -93,8 +78,8 @@
   </a>
 </p>
 
+---
 
--------
 <h3 align="center">🌟 What I Bring to the Table</h3>
 
 <ul>
@@ -104,6 +89,27 @@
   <li><strong>Team Player with Leadership Skills:</strong> Proven ability to lead and collaborate in team settings, driving projects from conception to successful completion.</li>
 </ul>
 
+---
+
+<h3 align="center">🔒 My Cybersecurity Journey</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/26FPCXdkvDbKBbgOI/giphy.gif" width="200" height="200" alt="Cybersecurity GIF"/>
+</p>
+<p>
+  I am deeply interested in the field of cybersecurity, with a focus on protecting digital assets and ensuring the confidentiality, integrity, and availability of data. My journey in cybersecurity involves continuous learning and staying updated with the latest trends, tools, and threats in the industry. I am particularly fascinated by:
+</p>
+<ul>
+  <li><strong>Ethical Hacking:</strong> Exploring vulnerabilities in systems to strengthen defenses.</li>
+  <li><strong>Network Security:</strong> Implementing measures to protect network infrastructure against breaches.</li>
+  <li><strong>Incident Response:</strong> Developing strategies to respond to and mitigate cyber attacks effectively.</li>
+  <li><strong>Security Awareness:</strong> Promoting best practices to ensure users are the first line of defense.</li>
+</ul>
+<p>
+  As I continue to deepen my expertise, I am eager to contribute to projects and initiatives that aim to build a safer digital world. If you share a passion for cybersecurity or have opportunities where I can contribute, let's connect!
+</p>
+
+---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahrukh-1052&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="border-radius: 10px;"/>
   &nbsp;&nbsp;
@@ -112,4 +118,15 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahrukh-1052&" alt="GitHub Streak Stats" style="border-radius: 10px;"/>
+</p>
+
+---
+
+<h3 align="center">📫 Let's Connect</h3>
+<p align="center">
+  <a href="mailto:mohammedhabeebuddin79@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mohammed-habeebuddin-a108ab288/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/shahrukh_66" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 </p>
