@@ -14,13 +14,15 @@
   </a>
 </p>
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://mhportfolio-emiuhbm.gamma.site/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://mhportfolio-emiuhbm.gamma.site/)  
 
-- 📝 I write articles on Hacking & Tech Alerts at [Instagram](https://www.instagram.com/mr_pagall__1052/)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" width="16" height="16"> I write articles on Hacking & Tech Alerts at [Medium](https://medium.com/@mhshahrukh56)  
 
-- 📫 How to reach me **mohammedhabeebuddin79@gmail.com**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="16" height="16"> Check my coding journey and problem-solving approach on [LeetCode](https://leetcode.com/your-profile)  
 
-- 📄 Know about my experiences through my [Resume](https://drive.google.com/file/d/1yN_h0s5knzDzOKrwUuUvVB-U2eJnN1eP/view?usp=sharing)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="16" height="16"> How to reach me **mohammedhabeebuddin79@gmail.com**  
+
+- <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="16" height="16"> Know about my experiences through my [Resume](https://drive.google.com/file/d/1yN_h0s5knzDzOKrwUuUvVB-U2eJnN1eP/view?usp=sharing)  
 
 
 ---
@@ -81,6 +83,7 @@
 <h3 align="center">🌟 What I Bring to the Table</h3>
 
 <ul>
+  <li><strong>Strong Problem Analyzer & Solver:</strong> Skilled in dissecting complex challenges, formulating strategic solutions, optimizing performance for scalable outcomes.</li>
   <li><strong>Versatile Skillset:</strong> Proficient in multiple programming languages and frameworks, ensuring adaptability and innovation in diverse projects.</li>
   <li><strong>Cloud Expertise:</strong> Hands-on experience with AWS and Google Cloud, empowering businesses with scalable and secure cloud solutions.</li>
   <li><strong>Strong Foundation in Cybersecurity:</strong> Passionate about protecting digital assets, with a growing expertise in safeguarding systems against evolving threats.</li>
@@ -89,22 +92,23 @@
 
 ---
 
-<h3 align="center">🔒 My Cybersecurity Journey</h3>
+<h3 align="center">🔒 My Tech Journey</h3>
 <p align="center">
   <img src="https://media.giphy.com/media/26FPCXdkvDbKBbgOI/giphy.gif" width="200" height="200" alt="Cybersecurity GIF"/>
 </p>
 <p>
-  I am deeply interested in the field of cybersecurity, with a focus on protecting digital assets and ensuring the confidentiality, integrity, and availability of data. My journey in cybersecurity involves continuous learning and staying updated with the latest trends, tools, and threats in the industry. I am particularly fascinated by:
+  I am deeply passionate about developing cutting-edge technological solutions, focusing on building scalable, efficient, and secure applications that drive innovation. My journey involves continuous learning, mastering best practices in software development, and staying updated with emerging technologies. I am particularly interested in:
 </p>
 <ul>
-  <li><strong>Ethical Hacking:</strong> Exploring vulnerabilities in systems to strengthen defenses.</li>
-  <li><strong>Network Security:</strong> Implementing measures to protect network infrastructure against breaches.</li>
-  <li><strong>Incident Response:</strong> Developing strategies to respond to and mitigate cyber attacks effectively.</li>
-  <li><strong>Security Awareness:</strong> Promoting best practices to ensure users are the first line of defense.</li>
+  <li><strong>Full-Stack Development:</strong> Designing and developing seamless user experiences with robust backend architecture.</li>
+  <li><strong>System Design & Optimization:</strong> Crafting high-performance, scalable systems to handle real-world challenges.</li>
+  <li><strong>Problem Solving:</strong> Analyzing complex issues and implementing efficient, maintainable solutions.</li>
+  <li><strong>Security in Software Development:</strong> Integrating cybersecurity best practices to build resilient and secure applications.</li>
 </ul>
 <p>
-  As I continue to deepen my expertise, I am eager to contribute to projects and initiatives that aim to build a safer digital world. If you share a passion for cybersecurity or have opportunities where I can contribute, let's connect!
+  As I continue to refine my expertise, I am eager to contribute to impactful projects and collaborate with like-minded professionals. If you are passionate about technology or have opportunities where I can contribute, let's connect!
 </p>
+
 
 ---
 
