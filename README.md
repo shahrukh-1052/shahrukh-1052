@@ -1,7 +1,6 @@
 <h1 align="center">Hi there 👋, I'm HABEEBUDDIN</h1>
 <h3 align="center">Passionate about a Cybersecurity career & eager to deepen my knowledge in safeguarding digital assets.</h3>
 
-
 ---
 
 <p align="left"> 
@@ -18,16 +17,15 @@
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" width="16" height="16"> I write articles on Hacking & Tech Alerts at [Medium](https://medium.com/@mhshahrukh56)  
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="16" height="16"> Check my coding journey and problem-solving approach on [LeetCode](https://leetcode.com/your-profile)  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="16" height="16"> Check my coding journey and problem-solving approach on [LeetCode](https://leetcode.com/u/shahrukh-56)  
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="16" height="16"> How to reach me **mohammedhabeebuddin79@gmail.com**  
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="16" height="16"> Know about my experiences through my [Resume](https://drive.google.com/file/d/1yN_h0s5knzDzOKrwUuUvVB-U2eJnN1eP/view?usp=sharing)  
 
-
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
@@ -81,7 +79,6 @@
 ---
 
 <h3 align="center">🌟 What I Bring to the Table</h3>
-
 <ul>
   <li><strong>Strong Problem Analyzer & Solver:</strong> Skilled in dissecting complex challenges, formulating strategic solutions, optimizing performance for scalable outcomes.</li>
   <li><strong>Versatile Skillset:</strong> Proficient in multiple programming languages and frameworks, ensuring adaptability and innovation in diverse projects.</li>
@@ -109,7 +106,6 @@
   As I continue to refine my expertise, I am eager to contribute to impactful projects and collaborate with like-minded professionals. If you are passionate about technology or have opportunities where I can contribute, let's connect!
 </p>
 
-
 ---
 
 <p align="center">
@@ -122,14 +118,19 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahrukh-1052" alt="GitHub Streak Stats"/>
 </p>
 
-
 ---
 
 <h3 align="center">📫 Let's Connect</h3>
 <p align="center">
-  <a href="mailto:mohammedhabeebuddin79@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+  <a href="mailto:mohammedhabeebuddin79@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mohammed-habeebuddin-a108ab288/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://www.linkedin.com/in/mohammed-habeebuddin-a108ab288/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/shahrukh_66" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+  <a href="https://twitter.com/shahrukh_66" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </p>
