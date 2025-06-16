@@ -21,7 +21,7 @@
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="16" height="16"> How to reach me **mohammedhabeebuddin79@gmail.com**  
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="16" height="16"> Know about my experiences through my [Resume](https://drive.google.com/file/d/1147x295-9mEOGVG_AP1XKgUWQGMjb8In/view)  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="16" height="16"> Know about my experiences through my [Resume](https://drive.google.com/file/d/1PAgr9GuX0c32JVoN0xMzJqAb46-X56pV/view?usp=sharing)  
 
 ---
 
