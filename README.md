@@ -13,7 +13,7 @@
   </a>
 </p>
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://mhportfolio-emiuhbm.gamma.site/)  
+- 👨‍💻 All of my projects are available at [My Portfolio](https://mh-lab.vercel.app/)  
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" width="16" height="16"> I write articles on Hacking & Tech Alerts at [Medium](https://medium.com/@mhshahrukh56)  
 
